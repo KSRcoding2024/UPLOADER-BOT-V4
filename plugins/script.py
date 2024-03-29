@@ -35,21 +35,11 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/UploadLinkToFileBot)
+**Mʏ ɴᴀᴍᴇ** : [𝗞𝗦𝗥 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗿 𝗩𝟮](https://t.me/ksr_uploader_v2bot)
 
-**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/NT_BOT_CHANNEL)
+**Cʜᴀɴɴᴇʟ** : [𝗞𝗦𝗥 𝗧𝗼𝗼𝗹𝘀](https://t.me/+yn_JdrRPNYo4MDQ1)
 
-**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/LISA-KOREA/UPLOADER-BOT-V4)
-
-**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [NT Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/NT_BOTS_SUPPORT)
-
-**Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
-
-**Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.12.2](https://www.python.org/)
-
-**Fʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢᴀᴍ 2.0.106](https://docs.pyrogram.org/)
-
-**Dᴇᴠᴇʟᴏᴘᴇʀ :** @LISA_FAN_LK
+**Dᴇᴠᴇʟᴏᴘᴇʀ :** @ksr_369
 """
 
 
