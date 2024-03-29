@@ -11,11 +11,11 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("6378816084:AAF5kKmEjxLI5DkA_ZVjmMu97NpPjco-RTI", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6378816084:AAF5kKmEjxLI5DkA_ZVjmMu97NpPjco-RTI")
     
-    API_ID = int(os.environ.get("22847778", ""))
+    API_ID = int(os.environ.get("API_ID", "22847778"))
     
-    API_HASH = os.environ.get("355c5bea2732922d393047c4c04b0487", "")
+    API_HASH = os.environ.get("API_HASH", "355c5bea2732922d393047c4c04b0487")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
@@ -39,15 +39,15 @@ class Config(object):
     
     DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
     
-    DATABASE_URL = os.environ.get("mongodb+srv://ksrmobile123:ksrmobile123@cluster0.f7tuhes.mongodb.net/?retryWrites=true&w=majority", "")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://ksrmobile123:ksrmobile123@cluster0.f7tuhes.mongodb.net/?retryWrites=true&w=majority")
     
     SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
     
-    LOG_CHANNEL = int(os.environ.get("-1002018357931", ""))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002018357931"))
     
     LOGGER = logging
 
-    UPDATES_CHANNEL = os.environ.get("-1002038299137", "")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002038299137")
     
     OWNER_ID = int(os.environ.get("OWNER_ID", "5452549957"))
     
